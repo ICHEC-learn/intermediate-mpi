@@ -1,2 +1,2 @@
 # intermediate-mpi
-Intermediate MPI course
+This repository containes the slides, practicals and other material used in ICHEC's PRACE Intermediate MPI course.
