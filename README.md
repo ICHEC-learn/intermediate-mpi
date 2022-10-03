@@ -8,7 +8,7 @@ This repository containes the slides, practicals and other material used in ICHE
 Agenda
 ------
 
-| Day 1 | Left Align |
+| Day 1 |  |
 |:-------|:--------|
 | 10:00-10:10   |  Introduction | 
 | 10:10-11:00   |  Introduction to MPI | 
@@ -21,8 +21,8 @@ Agenda
 
 
 
-| Day 2 | Left Align |
-|:-------:|--------:|
+| Day 2 |  |
+|:-------|:--------|
 | 10:00-11:00   |  Groups and Communicators | 
 | 11:15-12:00   |  Virtual Topologies  | 
 | 12:10-13:00   |  Derived Datatypes  | 
@@ -32,8 +32,8 @@ Agenda
 
 
 
-| Day 3 | Left Align |
-|:-------:|--------:|
+| Day 3 |  |
+|:-------|:--------|
 | 10:00-11:00   |  Intercommunicators | 
 | 11:15-12:00   |  Persistent Communicators, Packing  | 
 | 12:10-13:00   |  One-sided Communications  | 
