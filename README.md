@@ -47,48 +47,48 @@ If you have sent your public key in, your ssh key will have been added to your c
 
 Try and log in using the following command. Replace the XX with the course account nthat you have been given
 
-> ~~~
-> ssh courseXX@kay.ichec.ie
-> ~~~
+~~~
+ssh courseXX@kay.ichec.ie
+~~~
 
 You will be asked for a passphrase for your public ssh key. This passphrase is out of ICHEC's control and only you
 should know this passphrase, having generated it yourself. It will look similar to below, as it is searching for the
 location of your public key in your home directory.
 
-> ~~~
-> Enter passphrase for key '/Users/johnsmith/.ssh/id_ed25519':
-> ~~~
+~~~
+Enter passphrase for key '/Users/johnsmith/.ssh/id_ed25519':
+~~~
 
 
 Next will be the password provided for this course. If you are accessing this material outside of a course, this will
 be your password associated with your account.
 
-> ~~~
-> course00@kay.ichec.ie's password:
-> ~~~
+~~~
+course00@kay.ichec.ie's password:
+~~~
 
 
 Once you get the following output, you have successfully logged in.
 
-> ~~~
-> #############################################################################
-> #      _  __      __     _______ _____ _    _ ______ _____   _____ ______ 
-> #     | |/ /    /\\ \   / /_   _/ ____| |  | |  ____/ ____| |_   _|  ____|
-> #     | ' /    /  \\ \_/ /  | || |    | |__| | |__ | |        | | | |__   
-> #     |  <    / /\ \\   /   | || |    |  __  |  __|| |        | | |  __|  
-> #     | . \  / ____ \| | _ _| || |____| |  | | |___| |____ _ _| |_| |____ 
-> #     |_|\_\/_/    \_\_|(_)_____\_____|_|  |_|______\_____(_)_____|______|
-> #                                                                          
-> #############################################################################
-> # 
-> # You have been successfully logged in to the Kay National HPC System
-> #
-> # Documentation: https://www.ichec.ie/academic/national-hpc/kay-documentation
-> #
-> # For technical support, email support@ichec.ie
-> # 
-> ##############################################################################
-> ~~~
+~~~
+#############################################################################
+#      _  __      __     _______ _____ _    _ ______ _____   _____ ______ 
+#     | |/ /    /\\ \   / /_   _/ ____| |  | |  ____/ ____| |_   _|  ____|
+#     | ' /    /  \\ \_/ /  | || |    | |__| | |__ | |        | | | |__   
+#     |  <    / /\ \\   /   | || |    |  __  |  __|| |        | | |  __|  
+#     | . \  / ____ \| | _ _| || |____| |  | | |___| |____ _ _| |_| |____ 
+#     |_|\_\/_/    \_\_|(_)_____\_____|_|  |_|______\_____(_)_____|______|
+#                                                                          
+#############################################################################
+# 
+# You have been successfully logged in to the Kay National HPC System
+#
+# Documentation: https://www.ichec.ie/academic/national-hpc/kay-documentation
+#
+# For technical support, email support@ichec.ie
+# 
+##############################################################################
+~~~
 
 
 Clone the lesson repository
@@ -96,9 +96,9 @@ Clone the lesson repository
 
 In your current working directory, which should be similar to `course00/home/`, type the following command:
 
-> ~~~
-> git clone https://github.com/ICHEC-learn/intro-to-hpc.git 
-> ~~~
+~~~
+git clone git@github.com:ICHEC-learn/intermediate-mpi.git
+~~~
 
 This will clone the lesson's repository into your current directory, and you have access to all the lecture material
 including slides, exercises, practicals and markdown files. You can download this material later with the `scp` command.
