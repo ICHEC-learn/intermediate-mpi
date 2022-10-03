@@ -9,7 +9,7 @@ Agenda
 ------
 
 | Day 1 | Left Align |
-|:-------:|--------:|
+|:-------|:--------|
 | 10:00-10:10   |  Introduction | 
 | 10:10-11:00   |  Introduction to MPI | 
 | 11:15-12:00   |  MPI Point-to-Point Communication | 
