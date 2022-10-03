@@ -8,18 +8,20 @@ This repository containes the slides, practicals and other material used in ICHE
 Agenda
 ------
 
-| Day 1 |  |
+| Day 1 | Left Align |
 |:-------:|--------:|
-| 10:00-11:00   |  Introduction to MPI | 
+| 10:00-10:10   |  Introduction | 
+| 10:10-11:00   |  Introduction to MPI | 
 | 11:15-12:00   |  MPI Point-to-Point Communication | 
-| 12:10-13:00   |  MPI Collective Communication  | 
+| 12:10-12:45   |  MPI Collective Communication  | 
+| 12:45-13:00   |  Introduction to ICHEC Cluster  | 
 | 13:00-14:00   |  LUNCH | 
 | 14:00-15:30   |  Practical 1 | 
 | 16:00-17:00   |  Practical 2  | 
 
 
 
-| Day 2 |  |
+| Day 2 | Left Align |
 |:-------:|--------:|
 | 10:00-11:00   |  Groups and Communicators | 
 | 11:15-12:00   |  Virtual Topologies  | 
@@ -30,7 +32,7 @@ Agenda
 
 
 
-| Day 3 |  |
+| Day 3 | Left Align |
 |:-------:|--------:|
 | 10:00-11:00   |  Intercommunicators | 
 | 11:15-12:00   |  Persistent Communicators, Packing  | 
