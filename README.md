@@ -17,7 +17,7 @@ Agenda
 | 11:00-11:30   |  Break |
 |               |   |
 | 11:30-12:00   | MPI Point-to-Point Communication - Non Blocking |
-| 12:00=13:00   | Practical 1 |
+| 12:00-13:00   | Practical 1 |
 |               |   |
 | 13:00-14:00   |  LUNCH |
 |               |   |
@@ -37,8 +37,8 @@ Agenda
 |               |   |
 | 11:00-11:30   | Break |
 |               |   |
-| 11:30-12:00   | Practical 4 |
-| 12:00-12:30   |  Virtual Topologies  | 
+| 11:30-12:30   | Practical 4 |
+| 12:30-13:00   |  Virtual Topologies  | 
 |               |   |
 | 13:00-14:00   |  LUNCH  | 
 |               |   |
@@ -55,11 +55,20 @@ Agenda
 | Day 3 |  |
 |:-------|:--------|
 | 10:00-11:00   |  Intercommunicators | 
-| 11:15-12:00   |  Persistent Communicators, Packing  | 
-| 12:10-13:00   |  One-sided Communications  | 
-| 13:00-14:00   |  LUNCH  | 
-| 14:00-15:30   |  Practical 1  | 
-| 16:00-17:00   |  Practical 2 | 
+|               |   |
+| 11:00-11:30   | Break |
+|               |   |
+| 11:30-12:30   |  Persistent Communicators & Packing  | 
+| 12:30-13:00   |  Practical 8 |
+|               |   |
+| 13:00-14:00   | LUNCH |
+|               |   |
+| 14:00-15:30   |  One-sided Communications  | 
+|               |   |
+| 15:30-16:00   |  Break  | 
+|               |   |
+| 16:00-16:30   |  Practical 9  | 
+| 16:30-17:00   |  Discussion and Close | 
 
 
 
