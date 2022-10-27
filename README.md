@@ -32,12 +32,23 @@ Agenda
 
 | Day 2 |  |
 |:-------|:--------|
-| 10:00-11:00   |  Groups and Communicators | 
-| 11:15-12:00   |  Virtual Topologies  | 
-| 12:10-13:00   |  Derived Datatypes  | 
+| 10:00-10:30   | Error Handling |
+| 10:30-11:00   |  Groups and Communicators |
+|               |   |
+| 11:00-11:30   | Break |
+|               |   |
+| 11:30-12:00   | Practical 4 |
+| 12:00-12:30   |  Virtual Topologies  | 
+|               |   |
 | 13:00-14:00   |  LUNCH  | 
-| 14:00-15:30   |  Practical 1  | 
-| 16:00-17:00   |  Practical 2  | 
+|               |   |
+| 14:00-14:30   | Practical 5 |
+| 14:30-15:00   |  MPI Derived Datatypes  | 
+| 15:00-15:30   |  Practical 6  | 
+|               |   |
+| 15:30-16:00   | Break |
+|               |   |
+| 16:00-17:00   |  Practical 7  | 
 
 
 
