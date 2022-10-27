@@ -10,7 +10,7 @@ Agenda
 
 | Day 1 |  |
 |:-------|:--------|
-| 09:30-10:00   |  Introduction t oCourse and ICHEC Cluster | 
+| 09:30-10:00   |  Introduction to Course and ICHEC Cluster | 
 | 10:00-10:30   |  Introduction to MPI | 
 | 10:30-11:00   |  MPI Point-to-Point Communication - Blocking | 
 |               |   |
@@ -22,7 +22,7 @@ Agenda
 | 13:00-14:00   |  LUNCH |
 |               |   |
 | 14:00-14:30   |  MPI Collective Communication  | 
-| 14:30-15:30   |  Ptactical 2 |
+| 14:30-15:30   |  Practical 2 |
 |               |   |
 | 15:30-16:00   | Break |
 |               |   |
