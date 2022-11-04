@@ -16,8 +16,8 @@ Agenda
 |               |   |
 | 11:00-11:30   |  Break |
 |               |   |
-| 11:30-12:00   | MPI Point-to-Point Communication - Non Blocking |
-| 12:00-13:00   | Practical 1 |
+| 11:30-12:30   |  Practical 1|
+| 12:30-13:00   | MPI Point-to-Point Communication - Non Blocking |
 |               |   |
 | 13:00-14:00   |  LUNCH |
 |               |   |
