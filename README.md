@@ -3,7 +3,7 @@ intermediate-mpi
 
 <!-- Tags: [mpi] -->
 
-This repository containes the slides, practicals and other material used in ICHEC's PRACE Intermediate MPI course. This course targets users who already have some experience with basic MPI and want to deepen their knowledge. It briefly summarises basic concepts and describes them in more detail. Then, more advanced concepts will be described such as defined datatypes, communicator management and one-sided communication. All examples in the course will be done in C. 
+This repository containes the slides, practicals and other material used in ICHEC's PRACE Intermediate MPI course. This course targets users who already have some experience with basic MPI and want to deepen their knowledge. It briefly summarises basic concepts and describes them in more detail. Then, more advanced concepts will be described such as defined datatypes, communicator management and one-sided communication. All examples in the course will be done both in C and Fortran. 
 
 Agenda
 ------
@@ -37,18 +37,18 @@ Agenda
 |               |   |
 | 11:00-11:30   | Break |
 |               |   |
-| 11:30-12:30   | Practical 4 |
-| 12:30-13:00   |  Virtual Topologies  | 
+| 11:30-12:30   | Virtual Topologies |
+| 12:30-13:00   |   Practical 4 | 
 |               |   |
 | 13:00-14:00   |  LUNCH  | 
 |               |   |
-| 14:00-14:30   | Practical 5 |
-| 14:30-15:00   |  MPI Derived Datatypes  | 
+| 14:00-14:30   | MPI Derived Datatypes |
+| 14:30-15:00   |   Practical 5 | 
 | 15:00-15:30   |  Practical 6  | 
 |               |   |
 | 15:30-16:00   | Break |
 |               |   |
-| 16:00-17:00   |  Practical 7  | 
+| 16:00-17:00   |  Practical 6 cont. | 
 
 
 
@@ -59,7 +59,7 @@ Agenda
 | 11:00-11:30   | Break |
 |               |   |
 | 11:30-12:30   |  Persistent Communicators & Packing  | 
-| 12:30-13:00   |  Practical 8 |
+| 12:30-13:00   |  Practical 7 |
 |               |   |
 | 13:00-14:00   | LUNCH |
 |               |   |
@@ -67,7 +67,7 @@ Agenda
 |               |   |
 | 15:30-16:00   |  Break  | 
 |               |   |
-| 16:00-16:30   |  Practical 9  | 
+| 16:00-16:30   |  Practical 8  | 
 | 16:30-17:00   |  Discussion and Close | 
 
 
