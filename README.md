@@ -21,8 +21,8 @@ Agenda
 |               |   |
 | 13:00-14:00   |  LUNCH |
 |               |   |
-| 14:00-14:30   |  MPI Collective Communication  | 
-| 14:30-15:30   |  Practical 2 |
+| 14:00-14:30   |  Practical 2  | 
+| 14:30-15:30   |  MPI Collective Communication |
 |               |   |
 | 15:30-16:00   | Break |
 |               |   |

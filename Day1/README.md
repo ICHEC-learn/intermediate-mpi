@@ -25,7 +25,7 @@ Examples:
 Practicals:
 -----------
 1. Practical 1 - pingpong benchmark
-2. Practical 2 - ring test
+2. Practical 2 - communication in a ring 
 3. Practical 3 - collective communications
 4. Practical 4 - Simpson's rule mpi code (Extra)
 
