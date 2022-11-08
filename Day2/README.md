@@ -27,4 +27,4 @@ Practicals:
 -----------
 1. Practical 1 - 2d cartesian topology
 2. Practical 2 - derived type of matrix row/column/submatrix
-3. Practical 3
+3. Practical 3 - game of life
