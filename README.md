@@ -149,3 +149,5 @@ git clone git@github.com:ICHEC-learn/intermediate-mpi.git
 This will clone the lesson's repository into your current directory, and you have access to all the lecture material
 including slides, exercises, practicals and markdown files. You can download this material later with the `scp` command.
 
+
+Contact: buket.gursoy@ichec.ie, adam.ralph@ichec.ie 
